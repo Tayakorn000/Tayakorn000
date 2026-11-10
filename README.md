@@ -75,6 +75,7 @@ These were built for paying clients. I've left out client names.
 
 Side projects: [Taeklued](https://taeklued.taokaetech.com) (menus and prices for canteens and cafes at PSU Hat Yai) and [AR Detect](https://tayakorn000.github.io/ar-detect) (object detection from a webcam in the browser, including zero-shot search with OWLv2).
 
+<!-- ACTIVITY: re-enable once the cards workflow can run
 ## Activity
 
 <p>
@@ -97,3 +98,4 @@ Side projects: [Taeklued](https://taeklued.taokaetech.com) (menus and prices for
   <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg" />
   <img src="profile/snake.svg" alt="Snake eating the contribution graph" />
 </picture>
+-->
